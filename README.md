@@ -73,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # CovidPopulation
 "CovidDataViz is a web application that visualizes COVID-19 historical data alongside population statistics. It provides interactive charts and graphs to help users explore trends in cases, recoveries, and deaths over time across different countries."
 >>>>>>> f59fb170aa875df3f667be2900a7b093863c5161
+# Population Data Insights
